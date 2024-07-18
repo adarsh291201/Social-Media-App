@@ -1,0 +1,17 @@
+.sidebarrow{
+    display: flex;
+    padding: 5px 25px;
+    align-items: center;
+    margin-bottom: 10px;
+    
+}
+.sidebarrow p{
+   margin-left: 10px;
+   font-weight: bold;
+   font-size: 25px;
+}
+.sidebarrow:hover{
+ background-color: rgb(211 211 211/60%);
+ cursor: pointer;
+
+}
